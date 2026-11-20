@@ -15,6 +15,21 @@
       ],
       "preview": "galaxy.webp",
       "download": "galaxy.flex"
+    },
+    {
+      "id": "com.robritz.ritzykeyboard.themes.sweetbows",
+      "version": "1.0.0",
+      "title": "Sweet Bows",
+      "description": "Pastel pink with bows, hearts, clouds and sparkles",
+      "components": [
+        {
+          "id": "sweet_bows",
+          "label": "Sweet Bows",
+          "isNight": false
+        }
+      ],
+      "preview": "sweet-bows.webp",
+      "download": "sweet-bows.flex"
     }
   ]
 }
