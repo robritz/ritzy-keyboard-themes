@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "com.robritz.ritzykeyboard.themes.galaxy",
+      "version": "1.0.0",
+      "title": "Galaxy",
+      "description": "Purple starfield with glowing keys",
+      "components": [
+        {
+          "id": "galaxy",
+          "label": "Galaxy",
+          "isNight": true
+        }
+      ],
+      "preview": "galaxy.webp",
+      "download": "galaxy.flex"
+    }
+  ]
+}
