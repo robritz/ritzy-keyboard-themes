@@ -2,6 +2,21 @@
   "version": 1,
   "themes": [
     {
+      "id": "com.robritz.ritzykeyboard.themes.christmas",
+      "version": "1.0.0",
+      "title": "Christmas",
+      "description": "Holly, candy canes and snow, with a wreath for O and a stocking for J",
+      "components": [
+        {
+          "id": "christmas",
+          "label": "Christmas",
+          "isNight": false
+        }
+      ],
+      "preview": "christmas.webp",
+      "download": "christmas.flex"
+    },
+    {
       "id": "com.robritz.ritzykeyboard.themes.galaxy",
       "version": "1.0.0",
       "title": "Galaxy",
